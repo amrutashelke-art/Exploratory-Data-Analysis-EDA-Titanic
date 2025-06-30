@@ -5,7 +5,7 @@ This repository contains an exploratory data analysis (EDA) of the Titanic datas
 ## 📁 Contents
 - `Titanic_EDA_Report.pdf` – PDF report summarizing key insights from data visualizations.
 - `Titanic_EDA_Presentation.pptx` – PowerPoint presentation with annotated charts.
-- `Titanic_EDA.ipynb` – *(You can add your Jupyter Notebook here)*
+- `Titanic_EDA.ipynb` –  Jupyter Notebook 
 
 ## 📊 Key Insights
 - Higher class (Pclass 1) and female passengers had higher survival rates.
